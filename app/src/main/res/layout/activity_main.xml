@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="16dp">
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:src="@drawable/pti"
+                />
+
+            <TextView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:hint="MOBILE LEARNING"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:hint="Informatika dan Keterampilan Generik"
+                android:textAlignment="center"
+                android:paddingTop="20dp"
+                android:textSize="45px"
+                android:textStyle="bold"/>
+
+
+            <Button
+                android:id="@+id/tujuan"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:text="Tujuan Pembelajaran"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/pemantik"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:text="Pertanyaan Pemantik"
+                android:textStyle="bold"/>
+
+
+            <Button
+                android:id="@+id/petakonsep"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:text="Peta Konsep"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/apersepsi"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:text="Apersepsi"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/katakunci"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:text="Kata Kunci"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/btnView"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:text="Materi"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/tentang"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:text="Tentang Aplikasi"
+                android:textStyle="bold"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
