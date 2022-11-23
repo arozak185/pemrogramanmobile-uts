@@ -1,10 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="10dp"
+    android:scrollbars="vertical"
+    android:textAlignment="viewStart"
     tools:context=".materipdf">
-    
 
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="38dp"
+                    android:background="@color/sky"
+                    android:text="Tentang Informatika di SMA"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Informatika adalah mata pelajaran yang baru diterbitkan buku pelajaran resminya. Informasi berikut adalah penjelasan secara ringkas tentang kurikulum Informatika."
+                    android:textAlignment="textStart"
+                    android:textColor="@color/black"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:layout_width="372dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/teal_700"
+                    android:text="Apa dan Mengapa Informatika?"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="379dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/isi1"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/black"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:layout_width="379dp"
+                    android:layout_height="match_parent"
+                    android:text="Informatika di Era Industri 4.0"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/sky"
+                    android:textStyle="bold"
+                    android:textSize="12dp"
+                    android:layout_marginTop="10dp"/>
+
+                <TextView
+                    android:layout_width="379dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/isi2"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/black"
+                    android:textSize="12dp" />
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/img"
+                    />
+
+                <TextView
+                    android:layout_width="379dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/isi3"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/black"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:layout_width="372dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/teal_700"
+                    android:text="Apa yang akan Dipelajari dalam Mata Pelajaran Informatika?"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="10dp"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="379dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/isi4"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/black"
+                    android:textSize="12dp" />
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/img_1"
+                    />
+
+                <TextView
+                    android:layout_width="372dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/teal_700"
+                    android:text="Informatika dan Profil Pelajar Pancasila"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="10dp"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="379dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/isi5"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/black"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:layout_width="372dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/teal_700"
+                    android:text="Tanya Jawab"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="10dp"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="379dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/isi6"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/black"
+                    android:textSize="12dp" />
+
+
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

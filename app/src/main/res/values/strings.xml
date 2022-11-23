@@ -1,3 +1,163 @@
 <resources>
     <string name="app_name">SiGiat</string>
+    <string name="a_tentang_informatika_di_sekolah_menengah_atas">A. Tentang Informatika di Sekolah Menengah Atas</string>
+    <string name="isi1">
+        Informatika adalah bidang ilmu mengenai studi, perancangan, dan pembuatan sistem komputasi,
+        serta prinsip-prinsip yang menjadi dasar perancangan tersebut. Komputasi adalah ilmu yang
+        berkaitan dengan pemodelan matematika dan penggunaan komputer untuk memecahkan masalah-
+        masalah sains. Istilah informatika sepadan dengan istilah dalam bahasa Inggris Informatics,
+        Computing, atau Computer Science. Informatika mencakup pemodelan dari “komputasi” dan
+        aplikasinya dalam pengembangan sistem komputer. Apa itu komputasi? Menurut KBBI,
+        komputasi adalah: (1) penghitungan dengan menggunakan komputer; (2) dalam matematika,
+        penghitungan dengan menggunakan bilangan-bilangan atau peubah-peubah yang dilaksanakan
+        berdasarkan urutan langkah yang diberikan \n\n
+        Landasan berpikir untuk belajar informatika dinamakan berpikir komputasional (Computational
+        Thinking). Berpikir komputasional ini merupakan suatu kerangka dan proses berpikir yang
+        mencakup perangkat keras, perangkat lunak, dan menalar (reasoning) mengenai sistem dan
+        persoalan. Moda berpikir (thinking mode) ini didukung dan dilengkapi dengan pengetahuan
+        teoritis dan praktis, serta teknik untuk menganalisis, memodelkan dan memecahkan persoalan.
+        Siswa yang belajar informatika akan mendalami bagaimana suatu “sistem komputasional” berfungsi,
+        baik yang mengandung komputer maupun tidak \n\n
+        Setelah melalui perkembangan lebih dari 20 tahun, informatika telah
+menjadi salah satu disiplin ilmu yang saat ini sudah berdiri sendiri. IInformatika
+dapat dipandang sebagai sebuah cabang ilmu yang tersendiri karena membawa
+seseorang ke suatu cara berpikir yang unik (computational thinking), dan berbeda
+dari bidang ilmu lainnya. Ide-idenya tahan lama (20 tahun lebih dan masih
+terpakai sampai sekarang), dan prinsip-prinsip intinya dapat diajarkan tanpa
+bergantung kepada teknologi tertentu. \n\n
+        Semula, informatika hanya diajarkan di tingkat Perguruan Tinggi. Sekarang, di
+berbagai negara di dunia, termasuk Indonesia, informatika sudah mulai diajarkan
+di tingkat pendidikan dini, dasar dan menengah.
+    </string>
+    <string name="isi2">
+        Saat ini manusia hidup di era digital yang sering disebut Industri 4.0. Dalam
+industri 4.0, banyak hal dilakukan oleh manusia dengan memanfaatkan mesin cerdas berbasis komputer dan internet. Masyarakat sekarang ini disebut masyarakat 5.0
+(society 5.0) karena hidup di dunia fisik sekaligus di dunia siber (maya) saat melakukan kegiatan daring. Banyak kegiatan dilakukan manusia secara
+fisik maupun secara daring dengan pemanfaatan teknologi komputer dan
+internet. Kalian tentu bisa mengingat pengalaman kegiatan kalian yang didukung teknologi komputer dan internet, mulai dari berkomunikasi dengan
+media sosial, bermain game online, memesan makanan, memesan transportasi, mendaftar sekolah, belajar secara daring, dan sebagainya
+    </string>
+    <string name="isi3">
+        Dunia yang seperti ini menjadi makin cepat berubah, banyak hal menjadi
+tidak pasti, persoalan yang dihadapi manusia makin rumit, dan beragam
+cara untuk melakukan hal yang sama. Sebagai contoh, dulu orang harus
+pergi ke toko atau ke pasar untuk berbelanja. Penjual juga harus mempunyai
+bangunan kios atau toko. Pemilik toko mempekerjakan pegawai untuk
+mengurus gudang, menjadi kasir, dan menangani berbagai pekerjaan lain.
+Pembeli juga harus membawa uang tunai untuk membayar. Sekarang, orang
+bisa berbelanja dari rumah, tidak harus pergi ke mana-mana walaupun tidak
+ada penjual keliling yang datang. Penjual juga bisa berjualan dari rumah tanpa
+perlu memiliki bangunan kios atau toko. Pembeli tidak harus mengambil
+uang di bank untuk membayar barang yang dibelinya karena bisa membayar
+dengan menggunakan uang digital. Contoh lain yang telah kita alami sendiri
+ialah pembelajaran daring (dalam jaringan) selama masa pandemi. Di dunia
+industri, lebih banyak lagi hal yang kini dilakukan dengan bantuan teknologi
+komputer. Segala sesuatu diselesaikan secara otomatis karena sudah ada
+robot-robot yang mampu mengerjakan pekerjaan rutin yang berulang-ulang.
+Cara orang melakukan kegiatan menjadi berubah karena teknologi komputer
+dan internet yang dimanfaatkan di berbagai bidang.
+    </string>
+    <string name="isi4">
+        Informatika mencakup aspek teoretis dan praktis, mendorong kalian untuk
+mengembangkan daya pikir kritis dan kreatif untuk menghasilkan penemuan
+(invention) terkait komputer dan sistem komputasi. Kalian diharapkan
+mampu mengaplikasikan prinsip-prinsip ilmiah yang dipelajarinya untuk
+memahami dunia nyata, kemudian menciptakan perangkat keras dan
+perangkat lunak yang memudahkan kehidupan. Dengan mengombinasikan
+dari prinsip, praktik dan penemuan (principles, practice, and invention), kalian
+akan menjadi kreatif dan merasakan manfaatnya. Karena tidak hanya
+teoritis, penerapan informatika akan memberikan “surprise”, kejutan karena
+produknya menghasilkan sesuatu yang dapat diamati dan berfungsi dengan
+baik dan dapat digunakan, bahkan dapat memunculkan keindahan (“that is so
+beautiful”). \n\n
+        Kalian akan mempelajari bidang-bidang pengetahuan Informatika, yang
+dikelompokkan menjadi Berpikir Komputasional (BK), Teknologi Informasi
+dan Komunikasi (TIK), Sistem Komputer (SK), Jaringan Komputer dan
+Internet (JKI), Analisis Data (AD), Algoritma dan Pemrograman (AP), Dampak
+Sosial Informatika (DSI), dan Praktik Lintas Bidang (PLB). Dalam bahasa
+Inggris, bidang itu disebut: Computational Thinking (CT), Information and
+Communication Technology (ICT), Computing System (CE), Computer
+Network (NW), Data Analysis (DA), Algorithm dan Programming (AP), Social
+Impact of Informatics (SOC), Computing Practices (CP). Gambar 1.3 berikut
+ini menggambarkan bidang-bidang pengetahuan atau elemen pengetahuan
+informatika tersebut.
+    </string>
+    <string name="isi5">
+        Untuk menyiapkan diri menghadapi masa depan di era digital, siswa kelas X juga
+perlu membangun kebiasaan-kebiasaan baik yang menumbuhkan karakter yang
+baik di dunia nyata maupun dunia digital, karena citra bangsa Indonesia terpapar
+di dunia digital yang sangat terbuka akibat kemunculan dan posting konten
+orang Indonesia. Bagi pelajar Indonesia, karakter yang baik ini dirumuskan
+sebagai profil pelajar Pancasila, yang memiliki ciri-ciri berikut ini: (a) Beriman,
+bertakwa kepada Tuhan YME, dan berakhlak mulia, (b) Berkebhinekaan global,
+(c) Mandiri, (d) Bergotong Royong, (e) Bernalar kritis, dan (f) Kreatif. \n\n
+        Nah, melalui mata pelajaran informatika, kalian akan belajar juga
+menumbuhkan karakter-karakter tersebut, sebagai warga dunia nyata dan sebagai
+warga dunia maya. Semua elemen pembelajaran pada buku ini diharapkan dapat
+mengasah kemampuan kalian bernalar kritis dan kreatif, serta melatih kalian
+mengaitkan satu elemen pengetahuan dengan pengetahuan lainnya. \n\n
+        Dalam proses belajar berbagai materi dalam informatika, kalian akan
+belajar untuk mandiri saat mengerjakan tugas-tugas yang diberikan oleh
+guru. Kalian juga akan mengembangkan kemampuan bergotong royong,
+bernalar kritis dan kreatif saat berdiskusi dan berkreasi memecahkan
+masalah atau membuat proyek bersama teman-teman kalian. Teman-teman
+kalian mungkin berasal dari berbagai daerah, bahkan mungkin kalian akan
+bertemu dengan teman-teman dari berbagai negara melalui dunia maya. Saat
+itulah kalian akan belajar menumbuhkan toleransi dan saling menghargai
+antar teman yang beraneka ragam latar belakangnya. Hal itu tentu dilakukan
+karena kita meyakini bahwa semua makhluk ciptaan Tuhan YME itu baik dan
+harus dihormati. Cara berkomunikasi yang baik dengan sesama menunjukkan
+akhlak yang mulia.
+    </string>
+    <string name="isi6">
+        <i><b>Pertanyaan :</b> Apa persamaan dan perbedaan informatika fase SMP dengan Fase SMA?</i>\n
+        <b>Jawaban :</b> Elemen mata pelajaran informatika sama, tetapi pembahasannya
+akan lebih mendalam dan praktiknya lebih banyak menggunakan komputer dan
+perkakas yang sesuai dengan bidang yang dipelajari.
+Proyek yang dikerjakan lebih luas cakupannya, dan menuntut siswa menggali
+permasalahan secara lebih mendalam, untuk merancang dan menghasilkan solusi
+yang efektif dan efisien \n\n
+         <i><b>Pertanyaan :</b> Problem Solving? Jenis apa yang akan dilatih untuk diselesaikan pada
+             Fase SMA?</i>\n
+        <b>Jawaban : </b> Jika dalam fase sebelumnya persoalan lebih dikaitkan dengan persoalan seharihari, pada Fase SMA kita akan membahas kasus-kasus yang lebih bernuansa
+informatika, artinya yang solusinya lebih mengarah ke solusi yang terprogram
+(bisa dijalankan oleh komputer). Program komputer yang dibuat semasa fase
+SMP lebih sebagai program kreativitas, sedangkan program komputer yang akan
+dikembangkan di kelas X akan berupa program komputer yang akan berguna
+untuk mendukung dalam memodelkan komputasi. \n\n
+        <i><b>Pertanyaan :</b> Apakah Informatika perlu untuk bidang sosial dan humanitas (soshum)
+dan seni?</i>\n
+        <b>Jawaban : </b> Bidang sosial dan humanitas serta seni juga memerlukan komputer.
+Kalaupun siswa tidak akan memilih karir menjadi pengembang sistem komputasi,
+pengolahan data dalam suatu riset sosial akan membutuhkan perkakas pengolahan
+yang pasti membutuhkan informatika. Perkakas informatika ini disederhanakan
+antarmukanya sehingga pengguna bidang non informatika hanya perlu
+memandang perkakas informatika sebagai black box. Artinya, pengguna bidang
+informatika tidak perlu tahu detailnya, tinggal memakai seperti banyak pemakai
+televisi atau kulkas tanpa perlu mengerti rangkaian elektronika di dalamnya. Akan
+tetapi, memahami struktur dari perkakas dengan baik dan memahami logika
+pengembangannya akan membantu pengembang perkakas. Sistem sosial banyak
+dimodelkan dan disimulasikan, untuk mengkaitkan masa lalu, masa kini, dan masa
+depan. Simulasi memungkinkan kita melakukan percobaan dengan mengubahubah parameter, dan melakukan “what if analysis” atau “Bagaimana jika…. “. \n\n
+    <i><b>Pertanyaan :</b> Apa hubungan informatika dengan matematika?</i>\n
+        <b>Jawaban : </b> Matematika adalah akar dari informatika, terutama untuk bidang logika
+dan matematika diskrit, statistika, dan analisis data. Informatika memadukan teoriteori matematika dan bidang lain dengan prinsip dan teori informatika, untuk
+menghasilkan model komputasi yang dapat disimulasikan dengan komputer.
+ \n\n
+         <i><b>Pertanyaan :</b> Apa itu Artificial Intelligence?</i>\n
+        <b>Jawaban : </b> Semula, kecerdasan buatan hanya dikaitkan dengan robot yang menggantikan
+peran manusia. Sekarang, kecerdasan buatan tidak hanya berkaitan dengan robot.
+Kecerdasan buatan (Artificial Intelligence/AI) memungkinkan mesin untuk belajar
+dari pengalaman, menyesuaikan input-input baru dan melaksanakan tugas seperti
+manusia. Sebagian besar contoh AI yang kita dengar dewasa ini – mulai dari
+komputer yang bermain catur hingga mobil tanpa awak (autonomous car) – sangat
+mengandalkan pembelajaran mendalam dan pemrosesan bahasa alami. Dengan
+menggunakan teknologi ini, komputer dapat dilatih untuk menyelesaikan tugastugas tertentu dengan memproses sejumlah besar data dan mengenali pola dalam
+data. Nah, jika mesin (dapat berupa perangkat lunak saja, atau gabungan perangkat
+lunak dan perangkat keras) dapat belajar, tentunya Siswa SMA kelas X juga bisa
+belajar jauh lebih baik dari mesin kan? Manusia harus unggul dari mesin, karena
+manusia menciptakan mesin!
+ \n\n
+    </string>
+
 </resources>
